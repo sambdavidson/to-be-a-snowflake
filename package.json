@@ -1,0 +1,15 @@
+{
+  "name": "to-be-a-snowflake",
+  "version": "1.0.0",
+  "description": "Fresh 4 Less Winter Jam 2016",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Davidson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
