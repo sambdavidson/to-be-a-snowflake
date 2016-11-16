@@ -19,3 +19,5 @@ Terrible *Winter Jam* game jam game made in 2 hours. It sucks and it has no poin
  `npm install`
  
  `npm start`
+ 
+ Connect to *localhost:8050* in a browser
