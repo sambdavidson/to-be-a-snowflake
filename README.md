@@ -5,7 +5,7 @@ Terrible *Winter Jam* game jam game made in 2 hours. It sucks and it has no poin
 
 ![intro](docs/images/intro.png)
 
-![gameplay](docs/images/gameplay.png)
+![game](docs/images/game.png)
 
 
 ### How to play
